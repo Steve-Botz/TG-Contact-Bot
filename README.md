@@ -1,8 +1,8 @@
-# Contact Bot
+# Telegram Contact Bot
 
 <b>Chat With Owner Directly Through This Bot.</b>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Contact+Bot+!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Telegram+Contact+Bot+!)
 
 ## Features
 
