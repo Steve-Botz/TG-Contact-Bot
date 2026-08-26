@@ -4,6 +4,30 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Contact+Bot+!)
 
+## Features
+
+- [x] Forward User Messages To Owner
+- [x] Reply To User Directly From Owner Chat
+- [x] Auto Cooldown Message (No Spam)
+- [x] Auto Memory Cleanup
+- [x] Restart Bot Anytime (Owner Only)
+- [x] 24x7 Uptime With Built-In Web Server
+
+## Commands
+
+```
+start - check I'm alive
+restart - restart bot (owner only)
+```
+
+## Variables
+
+* `API_ID` API Id from my.telegram.org
+* `API_HASH` API Hash from my.telegram.org
+* `BOT_TOKEN` Bot token from @BotFather
+* `ADMIN` Telegram Account Id of Owner
+
+
 ## How To Deploy
 
 * Get `API_ID` & `API_HASH` from [my.telegram.org](https://my.telegram.org)
@@ -36,29 +60,16 @@ pip install -r requirements.txt
 python3 bot.py
 ```
 
-## Features
+## Contact Developer  👨‍💻
 
-- [x] Forward User Messages To Owner
-- [x] Reply To User Directly From Owner Chat
-- [x] Auto Cooldown Message (No Spam)
-- [x] Auto Memory Cleanup
-- [x] Restart Bot Anytime (Owner Only)
-- [x] 24x7 Uptime With Built-In Web Server
+[![Contact Developer](https://img.shields.io/badge/Contact-Developer-blue?logo=telegram)](https://t.me/AmaniContactBot)    
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Updates%20Channel-blue?logo=telegram)](https://t.me/SteveBotz)  
+[![Support Group](https://img.shields.io/badge/Telegram-Support%20Group-blue?logo=telegram)](https://t.me/SteveBotzSupport)
 
-## Commands
+Join My <a href='https://t.me/SteveBotz'>Update Channel</a> For Latest Updates & Features.
 
-```
-start - check I'm alive
-restart - restart bot (owner only)
-```
+---
 
-## Variables
-
-* `API_ID` API Id from my.telegram.org
-* `API_HASH` API Hash from my.telegram.org
-* `BOT_TOKEN` Bot token from @BotFather
-* `ADMIN` Telegram Account Id of Owner
-
-## Credits
-
-* <b>[SteveBotz](https://t.me/SteveBotz)</b>
+<div align="center">
+<b>⭐ Star this repository if you found it helpful! ⭐</b>
+</div>
